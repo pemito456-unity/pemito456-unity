@@ -53,8 +53,6 @@ Jogo multiplayer desenvolvido individualmente durante um curso, com orientação
 
 **Tecnologias:** Unity
 
-🔗 [Meu portfólio no Itch.io](https://pemito456.itch.io)
-
 #### ☢️ O Gatilho Humano
 
 Jogo de ação e gerenciamento de crise ambientado na Guerra Fria, combinando combate em tempo real, diálogos sob pressão e múltiplos finais.
@@ -101,4 +99,3 @@ Esta seção será ampliada conforme novos projetos forem desenvolvidos e public
 [![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://pemito456.itch.io)
 
 </div>
-```
