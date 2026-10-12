@@ -3,24 +3,39 @@
 <!-- CABEÇALHO -->
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Pedro+Thieghi+Mamede;Design+de+Games;Unity+%7C+L%C3%B3gica+de+Programa%C3%A7%C3%A3o;UI%2FUX" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Pedro+Thieghi+Mamede;Game+Development+%7C+Software+Development;Unity+%7C+C%23+%7C+Python;Explorando+Backend+e+IA" alt="Typing SVG" />
 </a>
 
 </div>
 
-<!-- BIO CURTA -->
+<!-- BIO -->
 
-Estudante de Design de Games na Universidade Anhembi Morumbi, com base em lógica de programação, arquitetura de sistemas e prototipagem de UI/UX. Desenvolveu um jogo multiplayer completo em Unity, atuando como Generalist Designer (roteiro, arte, trilha sonora e programação). Atualmente é Embaixador Estudantil do programa Google Gemini.
+## 👋 Sobre mim
+
+Sou estudante de **Design de Games na Universidade Anhembi Morumbi**, com experiência prática em desenvolvimento de jogos utilizando Unity, lógica de programação, arquitetura de sistemas e UI/UX.
+
+Desenvolvi individualmente um jogo multiplayer completo durante um curso, com orientação do professor, atuando em diferentes etapas do projeto — da programação à criação de conteúdo.
+
+Atualmente, estou aprofundando meus conhecimentos em **Python e desenvolvimento backend**, enquanto continuo explorando C#, Git/GitHub e aplicações de Inteligência Artificial.
+
+Também participo do programa **Google Gemini Student Ambassador**, acompanhando masterclasses, workshops e desafios relacionados à IA e às ferramentas do Google.
+
+- 🎓 Design de Games — Universidade Anhembi Morumbi
+- 💻 Foco atual: Python, programação e backend
+- 🎮 Experiência prática: Unity, C# e desenvolvimento de jogos
+- 🤖 Interesse em IA generativa e desenvolvimento de software
 
 <div align="center">
 
 <!-- STACK E FERRAMENTAS -->
 
-### 🛠️ Stack & Ferramentas
+## 🛠️ Tecnologias & Ferramentas
 
-<img src="https://skillicons.dev/icons?i=unity,cs,py,github" />
+<img src="https://skillicons.dev/icons?i=unity,cs,py,git,github,vscode" />
 
 </div>
+
+<!-- PROJETOS -->
 
 <div align="center">
 
@@ -28,39 +43,62 @@ Estudante de Design de Games na Universidade Anhembi Morumbi, com base em lógic
 
 </div>
 
-### 🎮 Jogo Multiplayer Completo — CultSPPro
+### 🎮 Games & Unity
 
-Jogo multiplayer desenvolvido do zero, com mecânicas multiplayer, progressão e interface do usuário integradas em Unity.
+#### 🌐 Jogo Multiplayer Completo — CultSPPro
 
-**Stack:** Unity
+Jogo multiplayer desenvolvido individualmente durante um curso, com orientação do professor. O projeto reuniu diferentes áreas do desenvolvimento de jogos em uma experiência funcional.
 
-### ☢️ O Gatilho Humano
+**Atuação:** Programação · Game Design · Roteiro · Arte · Trilha Sonora
+
+**Tecnologias:** Unity
+
+🔗 [Meu portfólio no Itch.io](https://pemito456.itch.io)
+
+#### ☢️ O Gatilho Humano
+
 Jogo de ação e gerenciamento de crise ambientado na Guerra Fria, combinando combate em tempo real, diálogos sob pressão e múltiplos finais.
 
-**Stack:** Unity • C#
+**Atuação:** Programação · Design de Som
 
-**Atuação:** Programação • Design de Som
+**Tecnologias:** Unity · C#
+
+<!-- Quando os repositórios estiverem públicos, adicione aqui os links
+para o código-fonte de cada projeto. -->
+
+<!-- FOCO ATUAL -->
+
+### 💻 Em desenvolvimento — Python & Backend
+
+Atualmente, estou estudando Python, fundamentos de programação e desenvolvimento backend. Meu objetivo é aplicar esses conhecimentos em projetos práticos, como automações, APIs e aplicações conectadas a bancos de dados.
+
+Esta seção será ampliada conforme novos projetos forem desenvolvidos e publicados no GitHub.
+
+<!-- ESTATÍSTICAS -->
 
 <div align="center">
 
 ## 📊 Atividade no GitHub
 
-![Streak](https://streak-stats.demolab.com/?user=pemito456-unity\&theme=radical)
+<img src="https://streak-stats.demolab.com/?user=pemito456-unity&theme=radical" alt="GitHub Streak" />
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=pemito456-unity\&theme=radical)
+<img src="https://github-stats-extended.vercel.app/api?username=pemito456-unity&theme=radical" alt="GitHub Stats" />
 
-![Trophies](https://github-trophies.vercel.app/?username=pemito456-unity\&theme=radical)
+<img src="https://github-trophies.vercel.app/?username=pemito456-unity&theme=radical" alt="GitHub Trophies" />
 
-![Contribution Graph](https://ghchart.rshah.org/F75C7E/pemito456-unity)
+<img src="https://ghchart.rshah.org/F75C7E/pemito456-unity" alt="GitHub Contribution Graph" />
 
 </div>
+
+<!-- CONTATO -->
 
 <div align="center">
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/pedro-thieghi-mamede)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:pedro.thieghi@outlook.com)
-[![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge\&logo=itchdotio\&logoColor=white)](https://pemito456.itch.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-thieghi-mamede)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedro.thieghi@outlook.com)
+[![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://pemito456.itch.io)
 
 </div>
+```
