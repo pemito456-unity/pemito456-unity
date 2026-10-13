@@ -51,7 +51,7 @@ Jogo multiplayer desenvolvido individualmente durante um curso, com orientação
 
 **Atuação:** Programação · Game Design · Roteiro · Arte · Trilha Sonora
 
-**Tecnologias:** Unity
+**Tecnologias:** Unity · C#
 
 #### ☢️ O Gatilho Humano
 
