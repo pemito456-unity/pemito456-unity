@@ -12,17 +12,16 @@
 
 ## 👋 Sobre mim
 
-Sou estudante de **Design de Games na Universidade Anhembi Morumbi**, com experiência prática em desenvolvimento de jogos utilizando Unity, lógica de programação, arquitetura de sistemas e UI/UX.
+Sou estudante de **Design de Games na Universidade Anhembi Morumbi**, com foco em **programação** e em busca da minha primeira oportunidade em **TI**.
 
-Desenvolvi individualmente um jogo multiplayer completo durante um curso, com orientação do professor, atuando em diferentes etapas do projeto — da programação à criação de conteúdo.
+Desenvolvi sozinho um **jogo multiplayer completo** como projeto final do curso de Jogos Multiplayer (CultSPPro), cuidando da programação, do roteiro, da arte e da trilha sonora. Também fui **programador e designer de som** no jogo **O Gatilho Humano**, um projeto em equipe de 6 pessoas, versionado aqui no GitHub.
 
-Atualmente, estou aprofundando meus conhecimentos em **Python e desenvolvimento backend**, enquanto continuo explorando C#, Git/GitHub e aplicações de Inteligência Artificial.
-
-Também participo do programa **Google Gemini Student Ambassador**, acompanhando masterclasses, workshops e desafios relacionados à IA e às ferramentas do Google.
+Agora estou aprofundando **Python** (FIAP) e **Git/GitHub**, e continuo praticando **C#**. Também sou **Google Gemini Student Ambassador**, participando de masterclasses, workshops e desafios sobre IA e ferramentas do Google.
 
 - 🎓 Design de Games — Universidade Anhembi Morumbi
-- 💻 Foco atual: Python, programação e backend
-- 🎮 Experiência prática: Unity, C# e desenvolvimento de jogos
+- 🎯 Objetivo: estágio ou Jovem Aprendiz em TI
+- 💻 Estudando agora: Python, Git/GitHub e Linux
+- 🎮 Experiência prática: Unity, C# e trabalho em equipe
 - 🤖 Interesse em IA generativa e desenvolvimento de software
 
 <div align="center">
